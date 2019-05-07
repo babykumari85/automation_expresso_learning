@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExpressoLearning</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_welcome_user">Welcome User !</string>
+    <string name="txt_invalid_username">Username is invalid !</string>
+    <string name="txt_invalid_password">Password is invalid !</string>
+    <string name="txt_empty_username">Username is empty !</string>
+    <string name="txt_empty_password">Password is empty!</string>
+</resources>
